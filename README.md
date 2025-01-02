@@ -1,0 +1,1 @@
+This repository contains a simple example of an uncommon Python error: a function definition with an unclosed bracket and a missing return statement in one branch. The solution demonstrates how to resolve it using proper function definition syntax and ensuring all branches return a value.
